@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "maksood",
+      "father_name": "Mahmood",
+      "email": "wresult007@gmail.com",
+      "phone": "08810320087",
+      "dob": "05/09/1999",
+      "city": "FARIDABAD",
+      "state": "Haryana",
+      "classes": "5th",
+      "id": 4
+    },
+    {
+      "name": "maksood",
+      "father_name": "maksood",
+      "email": "wresult007@gmail.com",
+      "phone": "08810320087",
+      "dob": "05/09/1999",
+      "city": "FARIDABAD",
+      "state": "Haryana",
+      "pin": "22222",
+      "date": "Fri Jan 15 2021 14:28:39 GMT+0530 (India Standard Time)",
+      "classes": "5th",
+      "id": 5
+    }
+  ]
+}
